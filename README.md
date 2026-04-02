@@ -5,7 +5,11 @@ It combines league-level summaries, referee style analysis, home-away bias check
 
 #### Public Link: https://refinsights.streamlit.app
 
+### Dashboard
+
 <img width="1920" height="1045" alt="dashboard_ws" src="https://github.com/user-attachments/assets/cfe8249f-cddb-43c3-ace1-ccc5fd84feb3" />
+
+### Referee Fingerprints
 
 <img width="1920" height="1046" alt="ref_stats_ws" src="https://github.com/user-attachments/assets/9a0e9e76-4656-456a-bd0e-1829aa1e6a32" />
 
